@@ -1,19 +1,19 @@
 # Hi 👋, I'm Thialison Mota
 
 🚀 **Desenvolverdor Front End Junior**  
-🇧🇷 Brazil
+🇧🇷 Brazil 🚀
 
-I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
-I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
-
-I also create content and share knowledge on **software development, SaaS, and tech entrepreneurship**.
+Sou Front-End Developer Júnior, focado em construir interfaces modernas, responsivas e escaláveis.
+Tenho grande interesse em arquitetura de aplicações front-end, performance, clean code e em criar experiências que realmente gerem valor para o negócio. Busco sempre evoluir tecnicamente, aplicando boas práticas, organização de código e atenção aos detalhes para entregar produtos bem estruturados e eficientes.
+Estou em constante aprendizado, explorando o desenvolvimento de produtos digitais, plataformas SaaS e sistemas web de alta performance, sempre com mentalidade orientada a crescimento e melhoria contínua.
+Além de programar, também compartilho conhecimento sobre desenvolvimento front-end, SaaS e empreendedorismo em tecnologia, acreditando que ensinar e aprender fazem parte da jornada de qualquer desenvolvedor que deseja se destacar.
 
 ---
 
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://github.com/hmotathialison1912-spec">
+  <a href="https://github.com/motathialison1912-spec">
     <img src="https://img.shields.io/badge/GitHub-motathialison1912-spec-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://instagram.com/thialison_mota">
@@ -37,7 +37,6 @@ I also create content and share knowledge on **software development, SaaS, and t
 -   💳 Payments, subscriptions & business logic
 -   🤖 Automation & integrations
 -   📊 Dashboards & analytics
--   🎓 Teaching & mentoring developers
 
 ---
 
@@ -75,8 +74,8 @@ I also create content and share knowledge on **software development, SaaS, and t
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hmotathialison1912-spec&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=motathialison1912-spec&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hmotathialison1912-specshow_icons=truetheme=tokyonightcount_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=motathialison1912-speclayout=compacttheme=tokyonight" />
 </p>
 
 ---
