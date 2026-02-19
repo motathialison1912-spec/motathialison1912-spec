@@ -1,4 +1,4 @@
-# Hi 👋, I'm Thialison Mota
+# Olá👋, sou Thialison Mota
 
 🚀 **Desenvolverdor Front End Junior**  
 🇧🇷 Brazil 🚀
@@ -73,10 +73,35 @@ Além de programar, também compartilho conhecimento sobre desenvolvimento front
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hmotathialison1912-specshow_icons=truetheme=tokyonightcount_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=motathialison1912-speclayout=compacttheme=tokyonight" />
-</p>
+<div align="center">
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+  />
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=8&theme=tokyonight"
+  />
+</div>
+
+## 🔥 Streak Stats
+
+<div align="center">
+
+  <img 
+    src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight&hide_border=false"
+  />
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,git,github,vscode" />
+
+</div>
 
 ---
 
