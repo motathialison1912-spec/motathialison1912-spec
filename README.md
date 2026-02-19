@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi 👋, I'm Thialison Mota
 
 🚀 **Desenvolverdor Front End Junior**  
